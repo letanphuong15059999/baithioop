@@ -1,0 +1,7 @@
+D:\LeTanPhuong-1706020067\LeTanPhuong-1706020067\LeTanPhuong-1706020067\obj\Debug\LeTanPhuong-1706020067.csprojResolveAssemblyReference.cache
+D:\LeTanPhuong-1706020067\LeTanPhuong-1706020067\LeTanPhuong-1706020067\obj\Debug\LeTanPhuong_1706020067.MainForm.resources
+D:\LeTanPhuong-1706020067\LeTanPhuong-1706020067\LeTanPhuong-1706020067\obj\Debug\LeTanPhuong-1706020067.csproj.GenerateResource.Cache
+D:\LeTanPhuong-1706020067\LeTanPhuong-1706020067\LeTanPhuong-1706020067\bin\Debug\LeTanPhuong-1706020067.exe
+D:\LeTanPhuong-1706020067\LeTanPhuong-1706020067\LeTanPhuong-1706020067\bin\Debug\LeTanPhuong-1706020067.pdb
+D:\LeTanPhuong-1706020067\LeTanPhuong-1706020067\LeTanPhuong-1706020067\obj\Debug\LeTanPhuong-1706020067.exe
+D:\LeTanPhuong-1706020067\LeTanPhuong-1706020067\LeTanPhuong-1706020067\obj\Debug\LeTanPhuong-1706020067.pdb
